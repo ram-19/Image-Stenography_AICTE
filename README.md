@@ -22,8 +22,9 @@ Install dependencies using:
 bash --> pip install opencv-python cryptography pycryptodome
 
 ### 2️⃣ Clone the Repository  
-bash --> git clone https://github.com/your-username/Image-Encryption-Decryption.git
-     --> cd Image-Encryption-Decryption
+bash --> git clone https://github.com/ram-19/Image-Stenography_AICTE.git
+
+     --> cd Image-Stenography_AICTE
 
 ### 3️⃣ Run the Encryption Tool  
 bash --> python encrypt_gui.py
