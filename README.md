@@ -61,11 +61,10 @@ Secret Message: "Hello, this is a secret!"
 
 ## 📂 File Structure  
 
-  📁 Image-Encryption-Decryption/
+  📁 Image-Stenography_AICTE
   │── encrypt_gui.py        # GUI for encryption
   │── decrypt_gui.py        # GUI for decryption
   │── README.md             # Documentation
-  │── requirements.txt      # Python dependencies
 
 ## 🛡️ Security Notes  
    **Only images are modified** – No separate text files or metadata changes.  
